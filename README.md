@@ -59,6 +59,9 @@ If u curious more about me
 
 ## 🎓 Education
 
+- **Bachelor of Electric Engineering *
+  - [Technology University (Loikaw)], [5th years (CDM)]
+
 - **Bachelor of Science in Computer Science**
   - [University Of People], [--]
 
