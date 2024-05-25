@@ -55,7 +55,7 @@ If u curious more about me
 - **State Management:** Provider, Bloc ,GetX
 - **Database:** Firebase Firestore SQLite Mongo DB
 - **Version Control:** Git, GitHub ,GitLab
-- **Other Tools:** [VsCode , XCode , AndroidStudio , Figma , PhotoShop , SketchUp, V-Ray]
+- **Other Tools:** [VsCode ,NeoVim, XCode , AndroidStudio , Figma , PhotoShop , SketchUp, V-Ray]
 
 ## 🎓 Education
 
