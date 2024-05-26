@@ -42,9 +42,9 @@ Here are some key technologies and tools I specialize in:
 
 If u curious more about me
 
-- **GitHub Repository:** [https://github.com/sAw-hTet-nAing/myportforlio_flutter]
-- **Live Demo:** [https://saw-htet-naing.github.io/my_portforlio/]
-- ![Screenshot 1](url-to-screenshot-1) ![Screenshot 2](url-to-screenshot-2)
+
+**(Watch Here)[https://saw-htet-naing.github.io/my_portforlio/]** 
+
 
 
 
