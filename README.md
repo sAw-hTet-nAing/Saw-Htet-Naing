@@ -69,7 +69,7 @@ If u curious more about me
 
 - GitHub: [sAw-hTet-nAing](https://github.com/sAw-hTet-nAing)
 - LinkedIn: [Saw Htet Naing](https://www.linkedin.com/in/saw-htet-naing-820088222/)
-- Email: [sawhtetnaing58@gmail.com]
+- Email: [sawhtetnaing.dev@gmail.com]
 
 
 
