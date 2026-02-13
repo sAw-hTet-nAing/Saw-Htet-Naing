@@ -14,13 +14,14 @@ I spend my days crafting **Flutter apps**, tinkering with **APIs**, and finding 
 
 ## Education
 
-- **Bachelor of Electric Engineering**  
-  - Technology University (Loikaw), 5th Year (CDM)  
-  ![TU Loikaw Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_of_TU_Loikaw.jpg)
+-  <img width="100" height="100" alt="TU Loikaw Logo" src="https://github.com/user-attachments/assets/5e6359f9-5f26-443b-8267-04e608b1963e"/>
+-  **Bachelor of Electric Engineering**
+-  [Technology University Loikaw](https://en.wikipedia.org/wiki/Technological_University,_Loikaw), 5th Year (CDM)  
 
-- **Bachelor of Science in Computer Science**  
-  - University of the People ,(Current)
-  ![University of the People Logo](https://upload.wikimedia.org/wikipedia/commons/2/23/University_of_the_People_seal.png)
+
+-  <img width="200" height="100" alt="UOP" src="https://github.com/user-attachments/assets/ef05d47f-401d-4f31-81a0-6badbf5753ca"/>
+-  **Bachelor of Science in Computer Science**
+-  [University of the People](https://www.uopeople.edu),  (Currently attending with GPA 3.45)
 
 ---
 
