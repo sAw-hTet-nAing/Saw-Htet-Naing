@@ -7,7 +7,7 @@ I spend my days crafting **Flutter apps**, tinkering with **APIs**, and finding 
 ---
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saw Htet Naing)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saw-htet-naing-820088222/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sawhtetnaing.dev@gmail.com)  
 
 ---
